@@ -7,9 +7,9 @@ An Invoice creator project built with React. Add itemized items, configure quant
 https://sosarena-invoice.netlify.app/
 
 ### Screenshots
-<img src="https://i.imgur.com/wRetnxk.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/AZChaei.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/Bz3K3DE.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://i.imgur.com/Nwe9ito.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://i.imgur.com/SBHuaR1.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="https://i.imgur.com/4lqgP2F.png" style="max-width: 100px; width: 100%; height: auto;">
 
 ### Installation
 
