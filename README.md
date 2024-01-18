@@ -14,7 +14,7 @@ https://sosarena-invoice.netlify.app/
 ### Installation
 
 ```
-git clone https://github.com/sosarenaint/invoice-generator
+git clone https://github.com/sosamsony/invoice-generator
 
 npm install
 
@@ -33,4 +33,4 @@ npm start / npm run build
 
 ### Meta
 
-Samson Sanyaolu – [sosarena.com](https://sosarena.com)
+Samson Sanyaolu – [sosamson.com](https://sosamson.com)
