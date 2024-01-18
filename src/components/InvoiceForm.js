@@ -240,7 +240,7 @@ class InvoiceForm extends React.Component {
                 </InputGroup.Text>
               </InputGroup>
             </Form.Group>
-            <div> Made by <a href="https://react.sosarena.com" target="_blank" rel="noopener noreferrer">Samson Sanyaolu</a></div>
+            <div> Made by <a href="https://sosamson.com" target="_blank" rel="noopener noreferrer">Samson Sanyaolu</a></div>
           </div>
         </Col>
       </Row>
